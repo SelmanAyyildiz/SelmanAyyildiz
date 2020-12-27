@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hi there 👋
+### Hi there 👋 I'm Selman
+I'm on my way to becoming a full stack software developer 🌱
 <!--
 **SelmanAyyildiz/SelmanAyyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

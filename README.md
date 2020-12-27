@@ -1,4 +1,3 @@
-Hi there 👋
 ### Hi there 👋 I'm Selman
 I'm on my way to becoming a full stack software developer 🌱
 <!--

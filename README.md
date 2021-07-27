@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Selman
 I'm on my way to becoming a full stack software developer 🌱
 <img src="https://github.com/SelmanAyyildiz/SelmanAyyildiz/blob/main/React.gif" alt="react-native" width=200 height=200 align="right" position= "absolute" top=0 right=0>
-<img src="/SelmanAyyildiz/SelmanAyyildiz/blob/main/tools.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
+<img src="https://github.com/SelmanAyyildiz/SelmanAyyildiz/blob/main/tools.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
 ## 🚀 Skills
 <p>
  <a href="#"> <img src="https://camo.githubusercontent.com/edbf0a154fb266da96cd1b5379eec350cff7ef072ba42ee003c713c321cb0ba8/68747470733a2f2f7777772e707974686f6e2e6f72672f7374617469632f696d672f707974686f6e2d6c6f676f2e706e67" alt="python" width="150" data-canonical-src="https://www.python.org/static/img/python-logo.png" style="max-width:100%;"> </a>  
@@ -34,7 +34,7 @@ I'm on my way to becoming a full stack software developer 🌱
  <a href="#"> <img src="https://camo.githubusercontent.com/1979a47caf89328f070a5a2b9d682a5b55763557cf8488e4521ac328370c02c3/68747470733a2f2f7777772e706e676974656d2e636f6d2f70696d67732f6d2f38302d3830303936385f7673636f64652d76697375616c2d73747564696f2d6c6f676f2d706e672d7472616e73706172656e742d706e672e706e67" alt="vs-code" height="50" data-canonical-src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" style="max-width:100%;"> </a> 
  
  <a href="#"> <img src="https://camo.githubusercontent.com/e2b80487eca533c3bd739c4c9ca6873a11db351d69d23eff2abf16ca8f03efe1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d3165393066662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465" height="40" data-canonical-src="https://img.shields.io/badge/jira-1e90ff.svg?&amp;style=for-the-badge&amp;logo=jira&amp;logoColor=white" style="max-width:100%;"> </a>
- <a href="#"> <img src="/SelmanAyyildiz/SelmanAyyildiz/blob/main/slack0.jpg" height="45" data-canonical-src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png" style="max-width:100%;"> </a>
+ <a href="#"> <img src="https://github.com/SelmanAyyildiz/SelmanAyyildiz/blob/main/slack0.jpg" height="45" data-canonical-src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png" style="max-width:100%;"> </a>
 </p>
 
 

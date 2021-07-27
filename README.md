@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Selman
 I'm on my way to becoming a full stack software developer 🌱
+<img src="https://github.com/SelmanAyyildiz/SelmanAyyildiz/blob/master/react.gif" alt="react-native" width=200 height=200 align="right">
 <!--
 **SelmanAyyildiz/SelmanAyyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
